@@ -27,5 +27,8 @@
     <ClCompile Include="奇数和.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="指针交换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
