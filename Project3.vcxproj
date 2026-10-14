@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="hello world.c" />
     <ClCompile Include="test.c" />
+    <ClCompile Include="奇数和.c" />
     <ClCompile Include="简易计算机.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

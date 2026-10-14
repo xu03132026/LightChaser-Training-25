@@ -21,5 +21,11 @@
     <ClCompile Include="hello world.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="简易计算机.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="奇数和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
