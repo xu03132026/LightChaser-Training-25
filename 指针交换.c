@@ -4,7 +4,7 @@ void swap(int* px, int* py)
 	*px = *py;
 	*py = tmp;
 }
-int main()
+int main5()
 {
 	int a = 10;
 	int b = 20;

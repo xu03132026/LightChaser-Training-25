@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="hello world.c" />
+    <ClCompile Include="malloc.c" />
     <ClCompile Include="test.c" />
     <ClCompile Include="奇数和.c" />
     <ClCompile Include="指针交换.c" />
